@@ -4,7 +4,7 @@
 # Do not use this in production. Sample purpose only.
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# <your GitHub username>
+# Juan Ignacio Segura
 echo "Enter the principal:"
 read p
 echo "Enter rate of interest per year:"
